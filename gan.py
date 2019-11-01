@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # Generative Adversarial Networks (GAN) example in PyTorch. Tested with PyTorch 0.4.1, Python 3.6.7 (Nov 2018)
+# Original 1D code by Dev Nag
 # See related blog post at https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.sch4xgsa9
 
 import numpy as np
